@@ -1,5 +1,5 @@
-# hello
-##this is my read me file read the steps 
+# HELLO
+## This is my read me file read the steps 
 >
 Always have food nearby 
 >
